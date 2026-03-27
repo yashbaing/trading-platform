@@ -1,0 +1,19 @@
+{
+  "name": "trading-platform",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Confidential trading dashboard demo (FHE + ZK + MPC) - demo UI",
+  "main": "confidential-trading-zama.jsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
